@@ -27,6 +27,25 @@ $(document).ready(function () {
  <h3> class= "letterE"> E </h3>
  <h3> class= "letterF"> F </h3>
  <h3> class= "letterG"> G </h3>
+ <h3> class= "letterH"> H </h3>
+ <h3> class= "letterI"> I </h3>
+ <h3> class= "letterJ"> J </h3>
+ <h3> class= "letterK"> K </h3>
+ <h3> class= "letterL"> L </h3>
+ <h3> class= "letterM"> M </h3>
+ <h3> class= "letterN"> N </h3>
+ <h3> class= "letterO"> O </h3>
+ <h3> class= "letterP"> P </h3>
+ <h3> class= "letterQ"> Q </h3>
+ <h3> class= "letterR"> R </h3>
+ <h3> class= "letterS"> S </h3>
+ <h3> class= "letterT"> T </h3>
+ <h3> class= "letterU"> U </h3>
+ <h3> class= "letterV"> V </h3>
+ <h3> class= "letterW"> W </he>
+ <h3> class= "letterX"> X </he>
+ <h3> class= "letterY"> Y </he>
+ <h3> class= "letterZ"> Z </he>
  
     // Write a series of on click listeners for each letter in the html
     // Whenever the user clicks on a letter, you want to append the corresponding letter to the `text-div` element
