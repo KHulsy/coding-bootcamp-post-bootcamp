@@ -20,8 +20,14 @@
 // document.ready makes sure the javascript doesn't load before the html page
 $(document).ready(function () {
   <h1> "I'm tired of these motherloving snakes on this motherloving plane. Also, letters." <h1>
-  <h3> a
-
+  <h3 class="letterA"> A </h3>
+  <h3 class="letterB"> B </h3>
+ <h3> class= "letterC"> C </h3>
+ <h3> class= "letterD"> D </h3>
+ <h3> class= "letterE"> E </h3>
+ <h3> class= "letterF"> F </h3>
+ <h3> class= "letterG"> G </h3>
+ 
     // Write a series of on click listeners for each letter in the html
     // Whenever the user clicks on a letter, you want to append the corresponding letter to the `text-div` element
     // You will need to set up an on click listener for each letter
