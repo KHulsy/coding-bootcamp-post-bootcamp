@@ -12,11 +12,12 @@
 
 
 
-var tracked = "We're";
 
-console.log("==================== Question 01 ====================");
+
+console.log('tracked');==================== Question 01 ====================");
 // What is the value of `tracked` here?
-// 
+var='tracked';
+//If we used let, we would be block scoping. It would throw an error, and we would be in the temporarl dead zone(which sounds freaky as heck). 
 
 
 
@@ -26,9 +27,8 @@ function loseTracked1() {
   var tracked = "no";
 }
 
-console.log("==================== Question 02 ====================");
-// What is the value of `tracked` here?
-// 
+console.log('tracked');
+var tracked="yes"
 
 
 
@@ -38,30 +38,30 @@ function loseTracked2(arg) {
   arg = "strangers";
 }
 
-console.log("==================== Question 03 ====================");
-// What is the value of `tracked` here?
-// 
+console.log(loseTracked2);
+var tracked="no";
 
+console.log('ADD');
+var fourletterword="without that being uttered";
 
-
-loseTracked3();
+loseTracked3(tracked);
 
 function loseTracked3(tracked) {
-  console.log("==================== Question 04 ====================");
-  // What is the value of `tracked` here?
-  // 
+  console.log("loseTracked3");
+  var tracked="no";
+  // Do we need the semicolon if it's not block scope? I'm fancy.
 
 }
 
 
 
-loseTracked4();
+loseTracked4(tracked);
 
-function loseTracked4() {
+function loseTracked4(tracked) {
   tracked = "to";
 }
 
-console.log("==================== Question 05 ====================");
+console.log("loseTracked5");
 // What is the value of `tracked` here?
 // 
 
@@ -73,10 +73,8 @@ function loseTracked5(arg) {
   tracked = arg;
 }
 
-console.log("==================== Question 06 ====================");
-// What is the value of `tracked` here?
-// 
-
+console.log("love");
+var tracked= "no";
 
 
 loseTracked6("You");
@@ -84,17 +82,17 @@ loseTracked6("You");
 function loseTracked6(arg) {
   arg = "know";
 
-  console.log("==================== Question 07 ====================");
-  // What is the value of `tracked` here?
+  console.log("love");
+  var damnyou="yes";
   // 
 
 }
 
 
-
-console.log("==================== Question 08 ====================");
-// What is the value of `tracked` here?
-// 
+console.log("love");
+var unfair="yes";
+var tracked="no";
+}
 
 
 
@@ -105,28 +103,32 @@ loseTracked7(tracked);
 function loseTracked7(tracked) {
   tracked = "rules";
 
-  console.log("==================== Question 09 ====================");
-  // What is the value of `tracked` here?
-  // 
+  console.log("loseTracked7");
+  tracked="rules";
+  tracked="say it";
 
 }
 
 
 
-console.log("==================== Question 10 ====================");
-// What is the value of `tracked` here?
-// 
+console.log("thebookoflove");
+tracked="is love and boring, and no one can lift the damned thing";
+}
 
 
 
-loseTracked8("and");
+loseTracked8("red");
 
-function loseTracked8(arg) {
-  var tracked = arg;
+function loseTracked8("red") {
+  var tracked = "red";
+  if var tracked="wolf"
+  var tracked="no";
+}
 
-  console.log("==================== Question 11 ====================");
-  // What is the value of `tracked` here?
-  // 
+  console.log("loseTracked9");
+  
+  
+  function
 
 
 }
