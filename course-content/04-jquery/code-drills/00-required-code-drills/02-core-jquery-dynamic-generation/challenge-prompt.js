@@ -2,7 +2,21 @@ $(document).ready(function () {
 
     $(document).on("click", "#randomLetter", function() {
 
-        // create variable called `text` and have it equal an empty string
+        // create variable called `text` and (sorry....complete accidental deletion)
+        
+        $(document).ready(function () {
+        $(document).on("click", "possibleLetters", function("a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z")};
+         
+        $(document).ready(function () {
+        $(document).on("click", "randIndex", function("0","z")};
+        
+        $(document).ready(function () {
+        $(document).on("click", "randIndex", function("0", "z")};
+                      
+        $(document).ready(function () {
+        $(document).on("click", "randomLetter", function("C");
+        consoleLog.randletter("C")
+            
 
         
         // create a variable called `possibleLetters` that contains all the letters of the alphabet
