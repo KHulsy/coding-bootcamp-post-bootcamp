@@ -4,6 +4,33 @@
 // Character One
 
 // make a variable called `characterOneName` and assign it to be a string of "Mr. Farley"
+//Character One Homework
+     var="characterOneName";
+     varcharacteroneName="Mr. Farley"
+     varcharacterOneName= "Ms. Farley";
+     var="characterOneAge";
+     varcharacterOneAge= "34";
+     varcharacterOneAge= "6";
+     var="characterOneSalary";
+     varcharacterOneSalary= "100,000.00";
+     var="characterOneProfession";
+     varcharacterOneProfession= "Web Developer";
+     var="characterOneSpecies";
+     varCharacterOneSpecies= "cat";
+     var="characterOneLocation";
+     varcharacterOneLocation= "San Francisco, CA";
+     var="characterOneRent";
+     varcharacterOneRent= "2000.00";
+     var= "characterOneYearlyExpenses";
+     varcharacterOneYearlyExpenses="12X1500.00";
+     var=characterOneYearlySavings;
+     varcharacterOneYearlySavings=(100,000-3500)=96,500;
+     var="lifechoices";
+     varLifechoices="why in His name did I get a creative writing degree";
+     varParenting="I should have been taking Spanish AND coding";
+     varRealTalk= "Let's take a moment of silence for Kaitlin's career";
+     
+   
 
 
 // assign a new value "Ms. Farley" to the variable `characterOneName`
@@ -140,6 +167,8 @@
 // Create an if statement to check if `characterOneProfession` is equal to "Web Developer" or if `characterTwoProfession` is equal to "Data Analyst"
 // hint: You can join two conditionals together using `||` to signify the `OR` logical operator
 //       This means that if at least one conditional on either side of the `||` is true, the combined conditional will also be true
+           If characteroneProfession="Web Developer"|| characterTwoProfession="Data Analyst";
+           console log: "Hey, stranger!";
 
 
     // If one of them is true, console log "Hey look! One of them is in the tech industry!"
