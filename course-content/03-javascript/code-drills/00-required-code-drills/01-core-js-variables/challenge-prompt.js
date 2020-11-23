@@ -19,14 +19,44 @@ meaning that any code commented out is ignored.
 
 // Create a variable named `subject` without giving it a value:
 // example: var hobby;
+   example: var hobby;
+   example: hobby="drinking the tears of mortals"
 
 
 // Assign a value of "Programmers" to the variable `subject`
 // example: hobby = "problem solving"
+            hobby= "Programmers";
 
 
 // Create a variable `firstName` and assign it a value of an empty string.
 // example: var emptyString = "";
+            var emptyString= "firstName";
+            var firstName= "Ada";
+            var emptyString= "lastName";
+            var lastName= "Lovelace";
+            var fullName= "fullName" + "lastName";
+            var fullName- "Ada" + "Lovelace";
+            var emptyString= "profession";
+            var profession= "Computer Programmer";
+            var emptyString= "knowFor";
+            var knownFor= "first computre programmer";
+            var emptyString= "firstAlgorithm";
+            var firstAlgorith= "Analytical Engine";
+//Next Exercise
+            var emptyString= "cityLocation";
+            var cityLocation= "London";
+            var countryLocation= "England";
+            var Nationality= "British";
+//next Exercise
+//INTEGERS
+            var birthYear= "1815";
+            var deathYear= "1852";
+            var yearofPublish= "1842";
+            var ageatyearofPublish= "yearofPublish"-"birthYear";
+//Consolelog
+
+            
+            
 
 
 // Assign a value of "Ada" to the variable `firstName`
@@ -87,6 +117,26 @@ meaning that any code commented out is ignored.
 
 
 //console log: "BirthYear: 1815" by concatenating the `birthYear` variable to the back of a string of "BirthYear: "
+
+//Try it out
+console log: var="firstName:Ada";
+console log: var= "lastName: Lovelace";
+console log: var="Profession";
+console log: var= "computer Programmer";
+console log: var= { "Profession: Computer Programmer"};
+consolelog: var=birthYear
+consolelog: var= "BirthYear:1815";
+
+//Homework Concat Values
+var="statementOne";
+consolelog: var= "Programmers: Ada Lovelace is a British Computer Programmer born in 1815.";
+var="statementTwo";
+consolelog: var="statementTwo:She is commonly referred to as the first computer programmer";
+consolelog: knownFor= "being the first computer programmer";
+//
+var="statementThree";
+consolelog: "statementThree": "In 1842 she published the first Algorithm, the Analytical Engine, at the age of 27.";
+
 
 
 
