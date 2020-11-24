@@ -57,6 +57,8 @@ Going to bed.
 
 // define a function "log" that takes in an argument and console logs that argument
 
+function getBaseLog("tortilla", "herdezsauce")
+
 
 
 // define a function "hello" that calls on the "log" function to console log "Hello World"
