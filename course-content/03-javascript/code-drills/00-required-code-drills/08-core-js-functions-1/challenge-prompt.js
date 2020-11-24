@@ -6,16 +6,52 @@
 // why doesn't "Functions are FUN! appear yet?"
 /*
 
-Your Answer here
+Your Answer here That's not what the header says? But I changed it? It can't deploy to Browser yet? Hamburglar?
 
 */
 
 
 // define a function "thirtySeven" that console logs the sum of 18 and 19
+var="thirtySeven";
+varthirtySeven= {
+firstNumber: "18"
+secondNumber: "19"
+return this.18+"" +this.19;}
+console.log("If you add eighteen and nineteen, you will get thirty seven");
+
+//define a function "thechild" that console logs Mandalorian and Droid
+var="thechild";
+vartheChild={
+firstName: "Mandalorian"
+secondName: "Droid"
+return this.Mandalorian+"" +this.Droid;}
+console.log("Mandalorians and droids must work together to save the child");
+
+//define a function "JayZ" that console logs Beyonce and Hova
+var="jayZ";
+varjayZ={
+firstName: "Beyonce"
+secondName: "Hova"
+return this.Beyonce+"" +Hova;}
+console.log("Beyonce and Hova are two names which are important to JayZ");
+
+//call two functions you've defined so far
+function myFunction(Beyonce);
+theobject.person=Beyonce;
+function my Function(Hova);
+theobject.person=Hova;
 
 
 
 // call two functions you've defined so far
+function myFunction(eighteen);
+theobject.number=eighteen;
+function my Function(nineteen);
+theobject.number=nineteen;
+
+Jeebus, I'm trying. 
+
+
 
 
 // define a function "log" that takes in an argument and console logs that argument
