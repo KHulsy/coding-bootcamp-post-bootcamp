@@ -1,5 +1,6 @@
 // Working with Arrays
 
+console.log
 
 
 
