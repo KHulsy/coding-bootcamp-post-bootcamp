@@ -1,34 +1,64 @@
 // define a function "warble" that takes in a string as an argument,
 // appends " arglebargle" to the end of it, and returns the result
 
+//Your Answer Here
+function warBle(war, ble){
+return war + ble;
+}
+warblearglebargle("warble", "argle", "bargle");
+
+
 
 
 
 // console log the result of calling your "warble" function with the argument "hello"
 
 
+function warBle(war, ble){
+return war+ble;
+}
+console.log(arguments["hello"];
+expected output= "hello";
 
 // define a function "wibble" that takes a string as an argument,
 // console logs the argument, prepends "wibbly " to the argument, and returns the result
+//Your Answer Below
+functionwibBle(wib, ble) {
+return wib+ble
+console.log(arguments["wibbly"];
+expected output= "wibbly";
+
+functionwibBle(wib, ble){
+return wib+ble;
+}
+console.log(arguments["bibbly"];
+expected output= "bibbly";
+            
 
 
 
 
 // console log the result of calling your "wibble" function with the argument "bibbly"
+            
 
 
 
 
 // define a function "consoleSum" that takes in two numbers as arguments
 // and console logs the sum of those two numbers
-
+consoleSum(1,2);
+console.log(arguments["1+2"];
+expected output="3";
+//Bibbity bobbity boo! 
 
 
 
 // testing your function - un-comment the following two lines when you have finished your function
-
+How do I uncomment? Ew...okay...
 // console.log("The following should be 5");
 // consoleSum(2, 3);
+//  console.log("The following should be 5");
+//  consoleSum(2, 3);
 
 // define a function "returnSum" that takes in two numbers as arguments
 // and returns the sum of those two numbers
@@ -43,12 +73,22 @@
 
 // using either "consoleSum" or "returnSum" and no mathematical operators,
 // define a function that takes in 3 arguments and finds the sum of those 3 numbers
+ 
+  console.log("coding", "is", "hard", "yall");
+  console.log(returnSum("coding"+"is"+"hard"+"yall");
+              
 
 
 
 
 
 // define a function "danceParty" that takes in a string as an argument,
+answer: functiondanceParty("dance", "party");
+ alert("Mrs. Mia Wallace wants to win that trophy! Dance for your milkshake! Do it!! Zounds!");
+  console.log(arguments["Mrs. Mia Wallace", "wants", "to", "win", "that trophy!", "Dance for your milkshake!", "Do it!!", "Zounds!"];
+   functionwibbly("wib", "bly");
+   functionwarble("war", "ble);
+   !Save!
 // creates an alert that says "dance!",
 // saves the result of calling your "wibbly" function with that argument,
 // saves the result of calling your "warble" function with that argument,
@@ -58,5 +98,7 @@
 
 
 // console log the result of calling your "danceParty" function with your name as the argument
-
+functiondanceParty("dance", "party");
+console.log(arguments["Kaitlin", "Elisabeth", "Rose","Hulsy","Mattick?"];
+This was nice. Nice it was. Am I doing any of this right? Coding? Life? The yoosh.....
 
