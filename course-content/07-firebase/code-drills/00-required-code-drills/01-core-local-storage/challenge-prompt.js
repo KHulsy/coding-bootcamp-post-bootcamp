@@ -35,9 +35,24 @@ $(function() {
   // is stored in local storage. If there is no value stored within local storage,
   // use the default value of buttonColors as defined above. 
   //
-  // -------------------- Your Code Here --------------------
+  // function displayButtons(buttons){
+  for (var i = 0; i < buttons.length; i++) {
+    $("#card-" + i).removeClass("bg-success bg-danger");
+    if (buttons[i] === "1"){
+      $("#card-" + i).addClass("bg-success");
+    } else {
+      $("#card-" + i).addClass("bg-danger");
+    }
 
-
+  }
+}
+;
+  for (var i=0; i<buttons.length; i++) {
+  $("#card-" +i). removeClass("bg-success bg-danger");
+  if (buttons[i] === "1"{
+      $("#card-" +i).addClass("bg-success");
+} else {
+  $(#card-" +i).addClass("bg-danger");
   
 
   // --------------------- End Code Area --------------------
@@ -59,8 +74,10 @@ $(function() {
     // Your code here should change the buttonColors string to reflect the change 
     // in color from the user click. You will have to use the `replaceChar` function
     // defined above. After you've updated button colors, store it inside local storage.
-    //
-    // -------------------- Your Code Here --------------------
+    // Fake it 'til you make it. 
+    $(document).on("click", ".user-card", function(event){
+        var index= parseInt($(this).data("button"));
+    
 
 
 
@@ -69,6 +86,6 @@ $(function() {
 
 
     // update the display of the buttons with the new color values.
-    displayButtons(buttonColors);
+    displayButtons(button
   })
 })
