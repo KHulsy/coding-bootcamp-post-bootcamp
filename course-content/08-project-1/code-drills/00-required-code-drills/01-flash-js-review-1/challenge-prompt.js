@@ -8,10 +8,13 @@ console.log("////////////////////////////// QUESTION 1.1 \\\\\\\\\\\\\\\\\\\\\\\
 //Output: The same object with a third key, fullName. fullName's value should be the value of object.firstName concatenated to the value of obj.lastName, separated by a space.
 
 function fullName(obj) {
-    // your code here
-
-
-}
+  var fullName(obj({
+  var person= {
+      firstName: 'Bob',
+      lastName: 'Fosse"
+  };
+  fullName(person);
+  console.log(person.fullName); //--> 'Bob Fosse'
 
 var person = {
     firstName: 'Jaden',
@@ -21,8 +24,15 @@ fullName(person);
 console.log(person.fullName); // --> 'Jaden Smith'
 
 console.log("////////////////////////////// QUESTION 1.2 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\")
+function correctAge(obj{
+var person= {
+aliveage: "64";
+deadage: "100";
+"Shimmy, and all that jazz!",
+"He had it fabuliously coming!"
+                     };                     
+                     
 
-/*Write a function called "checkAge". 
 
 Return one of the following messages depending on the number given
 
